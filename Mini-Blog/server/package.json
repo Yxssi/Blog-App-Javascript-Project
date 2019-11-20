@@ -1,0 +1,14 @@
+{
+  "name": "mini-blog",
+  "version": "1.0.0",
+  "description": "Serveur du mini-blog crée par Yessi Munguengui dans le cadre du projet Javascript des B2 Info Ynov Nantes 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yessi Munguengui",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
